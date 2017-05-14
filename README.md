@@ -1,2 +1,2 @@
 # BraveFrontier
-Random collection of tools for BraveFrontier that I've made public.
+Random collection of tools for Brave Frontier that I've made public.
